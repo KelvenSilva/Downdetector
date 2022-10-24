@@ -6,14 +6,14 @@
 beautifulsoup4
 cloudscraper
 requests
-openssl 1.1.1
+openssl 1.1.1*
 
 **INSTALE O PYTHON E SUAS DEPENDENCIAS:**
 
 *apt install python3-pip
 pip3 install bs4
 pip3 install requests
-pip3 install cloudscraper
+pip3 install cloudscraper*
 
 **CRIE OS ARQUIVOS NA PASTA E DE PERMISSÃO:**
 
