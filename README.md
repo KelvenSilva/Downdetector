@@ -2,10 +2,11 @@
 
 **REQUISITOS:**
 
-*Python 3
-beautifulsoup4
-cloudscraper
-requests
+*Python 3,
+beautifulsoup4,
+cloudscraper,
+requests,
+
 openssl 1.1.1*
 
 **INSTALE O PYTHON E SUAS DEPENDENCIAS:**
